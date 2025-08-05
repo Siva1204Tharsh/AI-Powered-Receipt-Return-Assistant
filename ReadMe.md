@@ -1,4 +1,4 @@
-# 🧾 Visual Receipt Scanner for Returns
+# 🧾 AI-Powered Receipt Return Assistant
 
 ## 🎯 Project Objective
 
