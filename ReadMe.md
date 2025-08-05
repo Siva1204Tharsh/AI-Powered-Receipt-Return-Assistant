@@ -85,6 +85,9 @@ uvicorn main:app --reload
 cd frontend
 streamlit run app.py
 ```
+<img width="720" height="390" alt="image" src="https://github.com/user-attachments/assets/e363c2e2-fb90-4875-9d02-b0ddb6bdc91e" />
+
+<img width="720" height="354" alt="image" src="https://github.com/user-attachments/assets/c36a2324-70d8-464d-910a-dac49f7e9648" />
 
 ---
 
