@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+
+
+
+
+# VSCode settings
+.vscode/
+
+# Logs and debug
+*.log
+*.out
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+
+

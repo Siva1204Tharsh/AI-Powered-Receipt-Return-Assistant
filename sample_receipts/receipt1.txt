@@ -1,0 +1,5 @@
+Store: Walmart
+Date: 07/25/2025
+Product ID: ABC123
+Item: Wireless Mouse
+Total: $49.99

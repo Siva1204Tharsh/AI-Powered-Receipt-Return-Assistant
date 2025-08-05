@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "ABC123",
+    "store": "Walmart",
+    "date": "07/25/2025",
+    "total": 49.99,
+    "item": "Wireless Mouse"
+  },
+  {
+    "product_id": "XYZ789",
+    "store": "Target",
+    "date": "07/20/2025",
+    "total": 79.0,
+    "item": "Bluetooth Headphones"
+  },
+  {
+    "product_id": "MNO456",
+    "store": "Best Buy",
+    "date": "07/15/2025",
+    "total": 19.99,
+    "item": "iPhone 12 Pro"
+  },
+  {
+    "product_id": "PQR345",
+    "store": "Amazon",
+    "date": "07/10/2025",
+    "total": 29.99,
+    "item": "Kindle Paperwhite"
+  },
+  {
+    "product_id": "STU678",
+    "store": "Best Buy",
+    "date": "07/05/2025",
+    "total": 39.99,
+    "item": "iPhone 12 Pro Max"
+  },
+  {
+    "product_id": "VWX901",
+    "store": "Walmart",
+    "date": "06/30/2025",
+    "total": 59.99,
+    "item": "Wireless Mouse"
+  }
+]
